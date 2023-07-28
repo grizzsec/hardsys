@@ -30,4 +30,4 @@ Analizar Código: Haz clic en "Analizar Código" para iniciar el proceso de aná
 
 Ver Resultados: Los resultados del análisis de código, seguridad de dependencias y módulos en código Python serán mostrados en la interfaz. Puedes guardar los resultados en un archivo de texto si lo deseas.
 
-# Con "Hardsys", los desarrolladores pueden mejorar la calidad de su código, garantizar la seguridad de sus proyectos y tomar decisiones informadas para fortalecer sus aplicaciones. Esta herramienta se convierte en un aliado indispensable para el desarrollo de software confiable y seguro.
+💬💬 Con "Hardsys", los desarrolladores pueden mejorar la calidad de su código, garantizar la seguridad de sus proyectos y tomar decisiones informadas para fortalecer sus aplicaciones. Esta herramienta se convierte en un aliado indispensable para el desarrollo de software confiable y seguro.
